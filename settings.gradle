@@ -1,0 +1,2 @@
+rootProject.name = "TCardHealth"
+include ':app'
